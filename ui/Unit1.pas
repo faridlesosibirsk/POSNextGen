@@ -7,7 +7,7 @@ uses
   System.Classes, Vcl.Graphics,
   Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls,
   URegister, UProductCatalog, USale,
-  Unit2;
+  Unit2, Vcl.Buttons, Vcl.Imaging.pngimage, Vcl.ExtCtrls, Vcl.Imaging.jpeg;
 
 type
   TForm1 = class(TForm)
@@ -15,10 +15,18 @@ type
     Label2: TLabel;
     Edit1: TEdit;
     Edit2: TEdit;
-    Button1: TButton;
-    Button2: TButton;
+    Image1: TImage;
+    Image3: TImage;
+    Image4: TImage;
+    Image5: TImage;
+    Image6: TImage;
+    Image7: TImage;
     procedure Button1Click(Sender: TObject);
     procedure Button2Click(Sender: TObject);
+    procedure Button5Click(Sender: TObject);
+    procedure Button6Click(Sender: TObject);
+    procedure Button8Click(Sender: TObject);
+    procedure Button7Click(Sender: TObject);
     procedure FormShow(Sender: TObject);
   private
     //Sale: TSale;
@@ -67,5 +75,40 @@ begin
   Regicter := TRegister.create(catalog);
   Regicter.makeNewSale;
 end;
+
+procedure TForm1.Button5Click(Sender: TObject);
+var
+  id: integer;
+  qty: integer;
+begin
+  // Registe.enterItem();
+  id := 100;
+  qty := 0;
+
+  Edit1.Text := '100';
+  Edit2.Text := '0';
+end;
+procedure TForm1.Button7Click(Sender: TObject);
+var
+  id: integer;
+  qty: integer;
+begin
+  // Registe.enterItem();
+  id := 200;
+  qty := 0;
+
+  Edit1.Text := '200';
+  Edit2.Text := '0';
+end;
+
+procedure TForm1.Button6Click(Sender: TObject);
+begin
+  showmessage('+1')
+end;
+procedure TForm1.Button8Click(Sender: TObject);
+begin
+  showmessage('-1')
+end;
+
 
 end.
