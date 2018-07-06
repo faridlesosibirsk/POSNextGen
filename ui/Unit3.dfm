@@ -7625,4 +7625,12 @@ object Form3: TForm3
       FFFFFFFFFFFFFFFFFFFF}
     OnClick = SpeedButton1Click
   end
+  object StaticText1: TStaticText
+    Left = 240
+    Top = 72
+    Width = 66
+    Height = 17
+    Caption = 'POSNextGen'
+    TabOrder = 0
+  end
 end

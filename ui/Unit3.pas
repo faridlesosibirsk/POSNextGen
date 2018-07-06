@@ -13,6 +13,7 @@ type
   TForm3 = class(TForm)
     SpeedButton1: TSpeedButton;
     Image1: TImage;
+    StaticText1: TStaticText;
     procedure Button1Click(Sender: TObject);
     procedure SpeedButton1Click(Sender: TObject);
   private
