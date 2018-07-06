@@ -6249,8 +6249,8 @@ object Form1: TForm1
     Caption = #1050#1086#1083#1083#1080#1095#1077#1089#1090#1074#1086
   end
   object Image2: TImage
-    Left = 262
-    Top = 16
+    Left = 293
+    Top = 8
     Width = 24
     Height = 25
     Cursor = crHandPoint
@@ -6964,8 +6964,8 @@ object Form1: TForm1
     OnClick = Button8Click
   end
   object Image3: TImage
-    Left = 292
-    Top = 16
+    Left = 262
+    Top = 8
     Width = 25
     Height = 25
     Cursor = crHandPoint
