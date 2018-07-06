@@ -14,7 +14,7 @@ object Form2: TForm2
   PixelsPerInch = 96
   TextHeight = 13
   object Image1: TImage
-    Left = -996
+    Left = -1004
     Top = -691
     Width = 1441
     Height = 945
@@ -6241,10 +6241,10 @@ object Form2: TForm2
     Caption = #1054#1073#1097#1072#1103' '#1089#1090#1086#1080#1084#1086#1089#1090#1100
   end
   object Image2: TImage
-    Left = 176
-    Top = 59
-    Width = 41
-    Height = 46
+    Left = 280
+    Top = 8
+    Width = 49
+    Height = 57
     Cursor = crHandPoint
     Picture.Data = {
       0A544A504547496D616765DC150000FFD8FFE000104A46494600010100000100
