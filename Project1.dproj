@@ -210,12 +210,12 @@
 							<RemoteDir>.\</RemoteDir>
 						</Platform>
 					</DeployFile>
-					<DeployFile Class="ProjectFile" Configuration="Debug" LocalName="ModelSupport_Project1\UCashPayment\default.txaPackage">
+					<DeployFile Class="ProjectFile" Configuration="Debug" LocalName="ModelSupport_Project1\UProductDescription\default.txvpck">
 						<Platform Name="Win32">
 							<RemoteDir>.\</RemoteDir>
 						</Platform>
 					</DeployFile>
-					<DeployFile Class="ProjectFile" Configuration="Debug" LocalName="ModelSupport_Project1\UProductDescription\default.txvpck">
+					<DeployFile Class="ProjectFile" Configuration="Debug" LocalName="ModelSupport_Project1\UCashPayment\default.txaPackage">
 						<Platform Name="Win32">
 							<RemoteDir>.\</RemoteDir>
 						</Platform>
@@ -255,12 +255,12 @@
 							<RemoteDir>.\</RemoteDir>
 						</Platform>
 					</DeployFile>
-					<DeployFile Class="ProjectFile" Configuration="Debug" LocalName="ModelSupport_Project1\UMoney\default.txvpck">
+					<DeployFile Class="ProjectFile" Configuration="Debug" LocalName="ModelSupport_Project1\default.txvpck">
 						<Platform Name="Win32">
 							<RemoteDir>.\</RemoteDir>
 						</Platform>
 					</DeployFile>
-					<DeployFile Class="ProjectFile" Configuration="Debug" LocalName="ModelSupport_Project1\default.txvpck">
+					<DeployFile Class="ProjectFile" Configuration="Debug" LocalName="ModelSupport_Project1\UMoney\default.txvpck">
 						<Platform Name="Win32">
 							<RemoteDir>.\</RemoteDir>
 						</Platform>
