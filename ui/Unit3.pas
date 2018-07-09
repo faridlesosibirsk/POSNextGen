@@ -17,6 +17,7 @@ type
     SpeedButton2: TSpeedButton;
     SpeedButton3: TSpeedButton;
     SpeedButton4: TSpeedButton;
+    SpeedButton5: TSpeedButton;
     procedure Button1Click(Sender: TObject);
     procedure SpeedButton1Click(Sender: TObject);
   private
