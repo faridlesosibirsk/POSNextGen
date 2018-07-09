@@ -9180,8 +9180,8 @@ object Form1: TForm1
     OnClick = Button1Click
   end
   object Image7: TImage
-    Left = 350
-    Top = 128
+    Left = 323
+    Top = 0
     Width = 115
     Height = 97
     Cursor = crHandPoint
