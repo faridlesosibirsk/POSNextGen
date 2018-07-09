@@ -14,6 +14,8 @@ type
     SpeedButton1: TSpeedButton;
     Image1: TImage;
     StaticText1: TStaticText;
+    SpeedButton2: TSpeedButton;
+    SpeedButton3: TSpeedButton;
     procedure Button1Click(Sender: TObject);
     procedure SpeedButton1Click(Sender: TObject);
   private
