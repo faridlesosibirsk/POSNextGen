@@ -16,6 +16,8 @@ type
     StaticText1: TStaticText;
     SpeedButton2: TSpeedButton;
     SpeedButton3: TSpeedButton;
+    SpeedButton4: TSpeedButton;
+    SpeedButton5: TSpeedButton;
     procedure Button1Click(Sender: TObject);
     procedure SpeedButton1Click(Sender: TObject);
   private
@@ -35,6 +37,7 @@ procedure TForm3.Button1Click(Sender: TObject);
 begin
   Form1.Visible := true;
 end;
+
 
 procedure TForm3.SpeedButton1Click(Sender: TObject);
 begin
