@@ -14,7 +14,6 @@ type
     SpeedButton1: TSpeedButton;
     Image1: TImage;
     StaticText1: TStaticText;
-    SpeedButton2: TSpeedButton;
     SpeedButton3: TSpeedButton;
     SpeedButton4: TSpeedButton;
     SpeedButton5: TSpeedButton;
