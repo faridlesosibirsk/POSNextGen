@@ -11440,6 +11440,13 @@ object Form1: TForm1
     Proportional = True
     OnClick = Button7Click
   end
+  object Label3: TLabel
+    Left = 50
+    Top = 103
+    Width = 31
+    Height = 13
+    Caption = 'Label3'
+  end
   object Edit1: TEdit
     Left = 135
     Top = 5

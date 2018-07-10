@@ -21,6 +21,7 @@ type
     Image5: TImage;
     Image6: TImage;
     Image7: TImage;
+    Label3: TLabel;
     procedure Button1Click(Sender: TObject);
     procedure Button2Click(Sender: TObject);
     procedure Button5Click(Sender: TObject);
